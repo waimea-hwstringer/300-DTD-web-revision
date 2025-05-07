@@ -1,0 +1,21 @@
+section#hero {
+    min-height: 20rem;
+    background-color: var(--pico-primary-hover-background);
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    
+}
+
+section#hero h1 {
+    font-size: 5rem;
+    color: white;
+    text-align: center;
+}
+
+section#likes div{
+    display: flex;
+    gap: 1rem;
+}
